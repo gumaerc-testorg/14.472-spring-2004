@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains handout on taxing savings.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-472-public-economics-ii-spring-2004/2cdec54e46a187e8718fcc7da0e76ea6_taxingsavings.pdf
+file: /media/courses/14-472-public-economics-ii-spring-2004/2cdec54e46a187e8718fcc7da0e76ea6_taxingsavings.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: taxingsavings.pdf
 uid: 2cdec54e-46a1-87e8-718f-cc7da0e76ea6

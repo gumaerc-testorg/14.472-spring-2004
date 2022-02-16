@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-472-public-economics-ii-spring-2004/8d5cbdfa80f3af915a6bb394c2088532_sociasecurifacts.pdf
+file: /media/courses/14-472-public-economics-ii-spring-2004/8d5cbdfa80f3af915a6bb394c2088532_sociasecurifacts.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: sociasecurifacts.pdf
 uid: 8d5cbdfa-80f3-af91-5a6b-b394c2088532

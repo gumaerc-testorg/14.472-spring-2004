@@ -5,8 +5,13 @@ description: "This file contains problem set 1 solutions covering General Notes:
   \ problem in 1, then add tweaks to the model in subsequent problems.  When possible,\
   \ you don?t have to re-derive the answers in each question.\n2)\tIntuition is important.\
   \  When you compare results between models, don?t just compare the math.  Use words."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-472-public-economics-ii-spring-2004/8db38688f7ca67a3610ffbb3a43c676f_pset1solutions.pdf
+file: /media/courses/14-472-public-economics-ii-spring-2004/8db38688f7ca67a3610ffbb3a43c676f_pset1solutions.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: pset1solutions.pdf
 uid: 8db38688-f7ca-67a3-610f-fbb3a43c676f

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-472-public-economics-ii-spring-2004/c4100f176f089ad1bbaf47db2458dc61_OptimalEstateTax.pdf
+file: /media/courses/14-472-public-economics-ii-spring-2004/c4100f176f089ad1bbaf47db2458dc61_OptimalEstateTax.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: OptimalEstateTax.pdf
 uid: c4100f17-6f08-9ad1-bbaf-47db2458dc61

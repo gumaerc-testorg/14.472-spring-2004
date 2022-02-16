@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-472-public-economics-ii-spring-2004/762a684c30adce23d88535298c8f1ad2_14472_socialsecurityannuity.pdf
+file: /media/courses/14-472-public-economics-ii-spring-2004/762a684c30adce23d88535298c8f1ad2_14472_socialsecurityannuity.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 14472_socialsecurityannuity.pdf
 uid: 762a684c-30ad-ce23-d885-35298c8f1ad2

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-472-public-economics-ii-spring-2004/6abd5f690a002eeeb10e8be4fd7e144d_socsecvarlifeexp.pdf
+file: /media/courses/14-472-public-economics-ii-spring-2004/6abd5f690a002eeeb10e8be4fd7e144d_socsecvarlifeexp.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: socsecvarlifeexp.pdf
 uid: 6abd5f69-0a00-2eee-b10e-8be4fd7e144d
