@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 42606420-c7a5-9a6e-7023-1a0609e32328
 resourcetype: Document
 title: optim_estate_tax.pdf
 uid: 56bc64e2-424a-d45f-c439-6ccfbddd1808

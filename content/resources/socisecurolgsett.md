@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 417e4f36-ab7b-975b-bf91-da2ec5c194cf
 resourcetype: Document
 title: socisecurolgsett.pdf
 uid: af88cf3d-583b-4c4f-f58c-cd3d9ce290bc

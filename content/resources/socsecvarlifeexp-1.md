@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 42606420-c7a5-9a6e-7023-1a0609e32328
 resourcetype: Document
 title: socsecvarlifeexp.pdf
 uid: 4119225c-15ab-9596-201f-be7bf3b718d4

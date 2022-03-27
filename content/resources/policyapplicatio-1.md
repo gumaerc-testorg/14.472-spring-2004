@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 42606420-c7a5-9a6e-7023-1a0609e32328
 resourcetype: Document
 title: policyapplicatio.pdf
 uid: 661b1972-9037-18f6-f1d5-155b1d79e630

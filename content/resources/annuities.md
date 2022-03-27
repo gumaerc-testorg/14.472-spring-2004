@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 417e4f36-ab7b-975b-bf91-da2ec5c194cf
 resourcetype: Document
 title: annuities.pdf
 uid: 0ae1a0ea-9161-8383-ff5b-23d5f4502494

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 417e4f36-ab7b-975b-bf91-da2ec5c194cf
 resourcetype: Document
 title: sociasecurifacts.pdf
 uid: 8d5cbdfa-80f3-af91-5a6b-b394c2088532

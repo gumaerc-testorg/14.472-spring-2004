@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 417e4f36-ab7b-975b-bf91-da2ec5c194cf
 resourcetype: Document
 title: warmglowpreferen.pdf
 uid: a48ff49f-fb7c-1e55-332b-7ba48a5c9b14

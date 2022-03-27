@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 417e4f36-ab7b-975b-bf91-da2ec5c194cf
 resourcetype: Document
 title: socseculengofcar.pdf
 uid: b6206f46-3297-3ac1-30e0-2174d89d78e7

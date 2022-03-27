@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 417e4f36-ab7b-975b-bf91-da2ec5c194cf
 resourcetype: Document
 title: 14472_optimalpublicgoodscontributions.pdf
 uid: 7bf25401-9aa4-a44c-a83e-36599afae9ff

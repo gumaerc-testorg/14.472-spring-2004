@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 417e4f36-ab7b-975b-bf91-da2ec5c194cf
 resourcetype: Document
 title: atkinsonstiglitz.pdf
 uid: be9eb28f-ef1b-38a4-5040-2f8255d52d8c

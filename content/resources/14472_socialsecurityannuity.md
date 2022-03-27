@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 417e4f36-ab7b-975b-bf91-da2ec5c194cf
 resourcetype: Document
 title: 14472_socialsecurityannuity.pdf
 uid: 762a684c-30ad-ce23-d885-35298c8f1ad2

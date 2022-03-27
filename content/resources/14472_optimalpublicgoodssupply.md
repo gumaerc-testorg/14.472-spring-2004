@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 417e4f36-ab7b-975b-bf91-da2ec5c194cf
 resourcetype: Document
 title: 14472_optimalpublicgoodssupply.pdf
 uid: 569b938d-6938-f925-7d56-d4af110d358b

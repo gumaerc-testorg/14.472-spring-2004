@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 417e4f36-ab7b-975b-bf91-da2ec5c194cf
 resourcetype: Document
 title: pubgoodprivateeq.pdf
 uid: c4644db3-9970-7a0d-bbb3-7ac5c74eaf69

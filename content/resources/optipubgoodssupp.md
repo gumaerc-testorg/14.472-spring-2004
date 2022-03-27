@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 417e4f36-ab7b-975b-bf91-da2ec5c194cf
 resourcetype: Document
 title: optipubgoodssupp.pdf
 uid: 8f8be5f7-2bc8-f67f-4035-2fbef86beeb1
