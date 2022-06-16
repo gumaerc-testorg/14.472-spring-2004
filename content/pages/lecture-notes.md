@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the lecture notes for the related lecture topics.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -37,7 +38,7 @@ lecture Notes
 Voluntary Private Provision of Public Goods and Private Charity
 {{< tdclose >}}
 {{< tdopen >}}
-Public Goods - Private Equilibrium ([PDF]({{< baseurl >}}/resources/pubgoodprivateeq-1))
+Public Goods - Private Equilibrium ({{% resource_link f6e92a4b-d837-00e5-0653-d3bcf5049783 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +50,7 @@ Public Goods - Private Equilibrium ([PDF]({{< baseurl >}}/resources/pubgoodpriva
 Efficient Public Goods Provision
 {{< tdclose >}}
 {{< tdopen >}}
-Optimal Public Goods Supply ([PDF]({{< baseurl >}}/resources/optipubgoodssupp-1))
+Optimal Public Goods Supply ({{% resource_link 8fd043f9-0b56-88f9-9441-1dbcb0d6ec2e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +62,7 @@ Optimal Public Goods Supply ([PDF]({{< baseurl >}}/resources/optipubgoodssupp-1)
 Income Tax Deduction of Charitable Donations
 {{< tdclose >}}
 {{< tdopen >}}
-Warm Glow Preferences([PDF]({{< baseurl >}}/resources/warmglowpreferen-1))
+Warm Glow Preferences({{% resource_link 82823db4-5e6e-c489-adae-1127eb65cab1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +84,7 @@ Individual Motivation
 Annuities
 {{< tdclose >}}
 {{< tdopen >}}
-Annuities ([PDF]({{< baseurl >}}/resources/annuities-1))
+Annuities ({{% resource_link 333f5004-03c6-2b30-7282-ec7b12821457 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,11 +108,11 @@ Taxing Gifts to Individuals
 Estate Taxes
 {{< tdclose >}}
 {{< tdopen >}}
-Atkinson-Stiglitz Model ([PDF]({{< baseurl >}}/resources/atkins_glitz_mod))  
+Atkinson-Stiglitz Model ({{% resource_link 87c3e061-829a-d8a7-634f-e906c017bf3a "PDF" %}})  
   
-Optimal Estate Tax ([PDF]({{< baseurl >}}/resources/optim_estate_tax))  
+Optimal Estate Tax ({{% resource_link 56bc64e2-424a-d45f-c439-6ccfbddd1808 "PDF" %}})  
   
-Taxing Savings ([PDF]({{< baseurl >}}/resources/taxingsavings-1))
+Taxing Savings ({{% resource_link 2cdec54e-46a1-87e8-718f-cc7da0e76ea6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +130,7 @@ Taxing Savings ([PDF]({{< baseurl >}}/resources/taxingsavings-1))
 Social Insurance Theory
 {{< tdclose >}}
 {{< tdopen >}}
-Social Security - Facts ([PDF]({{< baseurl >}}/resources/ssfacts))
+Social Security - Facts ({{% resource_link 7e21ffe6-8a74-0dec-234b-5e13acdd3260 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,9 +142,9 @@ Social Security - Facts ([PDF]({{< baseurl >}}/resources/ssfacts))
 Within Cohort Theoretical Models
 {{< tdclose >}}
 {{< tdopen >}}
-Social Security - Length of Career ([PDF]({{< baseurl >}}/resources/socseculengofcar-1))  
+Social Security - Length of Career ({{% resource_link d3070f34-5f08-44c4-480e-c17605012cbd "PDF" %}})  
   
-Social Security - Varying Life Expectancy ([PDF]({{< baseurl >}}/resources/socsecvarlifeexp-1))
+Social Security - Varying Life Expectancy ({{% resource_link 4119225c-15ab-9596-201f-be7bf3b718d4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -179,7 +180,7 @@ Social Security and Labor Supply
 Social Security in OLG Growth Models
 {{< tdclose >}}
 {{< tdopen >}}
-Social Security - OLG Settings ([PDF]({{< baseurl >}}/resources/socisecurolgsett-1))
+Social Security - OLG Settings ({{% resource_link 0be505fc-5d77-1608-f6c1-2fb695f8f09c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -209,7 +210,7 @@ Social Security Reform: Overview and Political Economy
 Unemployment Insurance - Theory
 {{< tdclose >}}
 {{< tdopen >}}
-Policy Application ([PDF]({{< baseurl >}}/resources/policyapplicatio-1))
+Policy Application ({{% resource_link 661b1972-9037-18f6-f1d5-155b1d79e630 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

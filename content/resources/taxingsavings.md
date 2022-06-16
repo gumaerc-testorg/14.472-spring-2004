@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-472-public-economics-ii-spring-2004/4540e8562b73a5b306d32567ab246188_taxingsavings.pdf
+file: /courses/14-472-public-economics-ii-spring-2004/4540e8562b73a5b306d32567ab246188_taxingsavings.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings

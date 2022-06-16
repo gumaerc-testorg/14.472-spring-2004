@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-472-public-economics-ii-spring-2004/be9eb28fef1b38a450402f8255d52d8c_atkinsonstiglitz.pdf
+file: /courses/14-472-public-economics-ii-spring-2004/be9eb28fef1b38a450402f8255d52d8c_atkinsonstiglitz.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings

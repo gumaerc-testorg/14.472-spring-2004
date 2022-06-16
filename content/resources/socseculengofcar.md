@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-472-public-economics-ii-spring-2004/b6206f4632973ac130e02174d89d78e7_socseculengofcar.pdf
+file: /courses/14-472-public-economics-ii-spring-2004/b6206f4632973ac130e02174d89d78e7_socseculengofcar.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings

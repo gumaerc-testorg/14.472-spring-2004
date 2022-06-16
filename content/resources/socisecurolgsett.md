@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-472-public-economics-ii-spring-2004/af88cf3d583b4c4ff58ccd3d9ce290bc_socisecurolgsett.pdf
+file: /courses/14-472-public-economics-ii-spring-2004/af88cf3d583b4c4ff58ccd3d9ce290bc_socisecurolgsett.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings

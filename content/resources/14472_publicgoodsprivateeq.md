@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-472-public-economics-ii-spring-2004/d345354e8281541b9836b072842841e2_14472_publicgoodsprivateeq.pdf
+file: /courses/14-472-public-economics-ii-spring-2004/d345354e8281541b9836b072842841e2_14472_publicgoodsprivateeq.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings

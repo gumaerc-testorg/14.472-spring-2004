@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-472-public-economics-ii-spring-2004/8f8be5f72bc8f67f40352fbef86beeb1_optipubgoodssupp.pdf
+file: /courses/14-472-public-economics-ii-spring-2004/8f8be5f72bc8f67f40352fbef86beeb1_optipubgoodssupp.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
