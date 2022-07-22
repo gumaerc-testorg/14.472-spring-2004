@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The reading table contains readings for every lecture session and also
+  a list of useful texts above this table.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 417e4f36-ab7b-975b-bf91-da2ec5c194cf
 ---

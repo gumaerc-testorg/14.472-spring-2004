@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The syllabus contains course meeting times, the requirements for the
+  course, the grading criteria and details on Public Finance Field Requirements and
+  Public Finance Seminar and Luncheon Meeting.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c1e0febb-2780-87b0-0e7b-5196c97c12fe
 ---
@@ -68,7 +73,7 @@ Final Exam
 Public Finance Field Requirements
 ---------------------------------
 
-The Public Finance field requirement consists of two courses: [14.471](/courses/14-471-public-economics-i-fall-2012/) (Public Economics I) and 14.472 (Public Economics II). In some cases, 14.474 (Advanced Topics in Public Economics) may be combined with 14.471 to satisfy the field requirement.
+The Public Finance field requirement consists of two courses: [14.471](/courses/14-471-public-economics-i-fall-2012) (Public Economics I) and 14.472 (Public Economics II). In some cases, 14.474 (Advanced Topics in Public Economics) may be combined with 14.471 to satisfy the field requirement.
 
 Public Finance Seminar and Luncheon Meeting
 -------------------------------------------
