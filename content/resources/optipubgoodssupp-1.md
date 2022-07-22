@@ -6,6 +6,7 @@ file: /courses/14-472-public-economics-ii-spring-2004/8fd043f90b5688f994411dbcb0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: optipubgoodssupp.pdf
 uid: 8fd043f9-0b56-88f9-9441-1dbcb0d6ec2e
 ---
 This file contains notes on optimal public goods supply regarding Samuelson FOC.
-

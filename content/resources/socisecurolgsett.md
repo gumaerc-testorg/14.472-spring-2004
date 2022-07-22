@@ -5,6 +5,7 @@ file: /courses/14-472-public-economics-ii-spring-2004/af88cf3d583b4c4ff58ccd3d9c
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection

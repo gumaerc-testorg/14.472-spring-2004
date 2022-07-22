@@ -5,6 +5,7 @@ file: /courses/14-472-public-economics-ii-spring-2004/109b846447f87b6aff810e0760
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pset2solutions.pdf
 uid: 109b8464-47f8-7b6a-ff81-0e07602e62d3
 ---
 This file contains Problem set 2 with suggested solutions.
-

@@ -9,6 +9,7 @@ file: /courses/14-472-public-economics-ii-spring-2004/8db38688f7ca67a3610ffbb3a4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -20,4 +21,3 @@ uid: 8db38688-f7ca-67a3-610f-fbb3a43c676f
 This file contains problem set 1 solutions covering General Notes:
 1)	A lot of Peter?s problem sets and exam questions are set up this way ? basic problem in 1, then add tweaks to the model in subsequent problems.  When possible, you don?t have to re-derive the answers in each question.
 2)	Intuition is important.  When you compare results between models, don?t just compare the math.  Use words.
-
