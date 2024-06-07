@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains handout on social security - varying life expectancy.
 file: /courses/14-472-public-economics-ii-spring-2004/4119225c15ab9596201fbe7bf3b718d4_socsecvarlifeexp.pdf
+file_size: 174146
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

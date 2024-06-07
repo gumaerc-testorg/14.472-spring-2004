@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-472-public-economics-ii-spring-2004/c4100f176f089ad1bbaf47db2458dc61_OptimalEstateTax.pdf
+file_size: 50969
 file_type: application/pdf
 learning_resource_types:
 - Readings

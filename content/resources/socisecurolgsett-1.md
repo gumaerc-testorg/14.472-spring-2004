@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains anylysis on social security - olg models with certainity
   and fixed wages, w, and interest rate, r, inelastic labor.
 file: /courses/14-472-public-economics-ii-spring-2004/0be505fc5d771608f6c12fb695f8f09c_socisecurolgsett.pdf
+file_size: 109905
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
