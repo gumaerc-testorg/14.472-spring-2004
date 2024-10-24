@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains Problem set 2 with suggested solutions.
-file: /courses/14-472-public-economics-ii-spring-2004/109b846447f87b6aff810e07602e62d3_pset2solutions.pdf
+file: /ol-ocw-studio-app/courses/14-472-public-economics-ii-spring-2004/109b846447f87b6aff810e07602e62d3_pset2solutions.pdf
 file_size: 60951
 file_type: application/pdf
 learning_resource_types:
