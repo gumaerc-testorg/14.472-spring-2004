@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains handouts on optimal tax treatment of private contribution
   for public goods with and without warm glow preferences.
-file: /ol-ocw-studio-app/courses/14-472-public-economics-ii-spring-2004/82823db45e6ec489adae1127eb65cab1_warmglowpreferen.pdf
+file: /courses/14-472-public-economics-ii-spring-2004/82823db45e6ec489adae1127eb65cab1_warmglowpreferen.pdf
 file_size: 103448
 file_type: application/pdf
 learning_resource_types:

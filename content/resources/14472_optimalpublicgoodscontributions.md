@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/14-472-public-economics-ii-spring-2004/7bf254019aa4a44ca83e36599afae9ff_14472_optimalpublicgoodscontributions.pdf
+file: /courses/14-472-public-economics-ii-spring-2004/7bf254019aa4a44ca83e36599afae9ff_14472_optimalpublicgoodscontributions.pdf
 file_size: 123729
 file_type: application/pdf
 learning_resource_types:

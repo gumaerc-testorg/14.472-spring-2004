@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains notes on public goods - private equilibrium regarding
   Nash equilibrium with private provision.
-file: /ol-ocw-studio-app/courses/14-472-public-economics-ii-spring-2004/f6e92a4bd83700e50653d3bcf5049783_pubgoodprivateeq.pdf
+file: /courses/14-472-public-economics-ii-spring-2004/f6e92a4bd83700e50653d3bcf5049783_pubgoodprivateeq.pdf
 file_size: 128609
 file_type: application/pdf
 learning_resource_types:

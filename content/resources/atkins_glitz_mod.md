@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains theorems to look at, both involving a lack of taxation
   of commodities in the presence of optimal income taxation.
-file: /ol-ocw-studio-app/courses/14-472-public-economics-ii-spring-2004/87c3e061829ad8a7634fe906c017bf3a_atkins_glitz_mod.pdf
+file: /courses/14-472-public-economics-ii-spring-2004/87c3e061829ad8a7634fe906c017bf3a_atkins_glitz_mod.pdf
 file_size: 44052
 file_type: application/pdf
 learning_resource_types:

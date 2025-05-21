@@ -4,7 +4,7 @@ description: 'This file contains problem set 3 solutions with suggested solution
   to the question 1:
 
   Because technology is linear, the wage and the interest rate will be constant.'
-file: /ol-ocw-studio-app/courses/14-472-public-economics-ii-spring-2004/409264b162806697ac1d14bf0d6e29de_pset3solutions.pdf
+file: /courses/14-472-public-economics-ii-spring-2004/409264b162806697ac1d14bf0d6e29de_pset3solutions.pdf
 file_size: 97229
 file_type: application/pdf
 learning_resource_types:
