@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/14-472-public-economics-ii-spring-2004/8d5cbdfa80f3af915a6bb394c2088532_sociasecurifacts.pdf
+file: /courses/14-472-public-economics-ii-spring-2004/8d5cbdfa80f3af915a6bb394c2088532_sociasecurifacts.pdf
 file_size: 19862
 file_type: application/pdf
 learning_resource_types:

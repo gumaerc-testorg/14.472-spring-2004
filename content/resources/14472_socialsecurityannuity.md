@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/14-472-public-economics-ii-spring-2004/762a684c30adce23d88535298c8f1ad2_14472_socialsecurityannuity.pdf
+file: /courses/14-472-public-economics-ii-spring-2004/762a684c30adce23d88535298c8f1ad2_14472_socialsecurityannuity.pdf
 file_size: 141327
 file_type: application/pdf
 learning_resource_types:
