@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-472-public-economics-ii-spring-2004/b6206f4632973ac130e02174d89d78e7_socseculengofcar.pdf
+file: /ol-ocw-studio-app/courses/14-472-public-economics-ii-spring-2004/b6206f4632973ac130e02174d89d78e7_socseculengofcar.pdf
 file_size: 71206
 file_type: application/pdf
 learning_resource_types:

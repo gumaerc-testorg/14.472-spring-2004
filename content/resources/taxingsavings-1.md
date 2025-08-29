@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains handout on taxing savings.
-file: /courses/14-472-public-economics-ii-spring-2004/2cdec54e46a187e8718fcc7da0e76ea6_taxingsavings.pdf
+file: /ol-ocw-studio-app/courses/14-472-public-economics-ii-spring-2004/2cdec54e46a187e8718fcc7da0e76ea6_taxingsavings.pdf
 file_size: 59426
 file_type: application/pdf
 learning_resource_types:
