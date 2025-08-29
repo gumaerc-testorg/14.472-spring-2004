@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-472-public-economics-ii-spring-2004/a48ff49ffb7c1e55332b7ba48a5c9b14_warmglowpreferen.pdf
+file: /ol-ocw-studio-app/courses/14-472-public-economics-ii-spring-2004/a48ff49ffb7c1e55332b7ba48a5c9b14_warmglowpreferen.pdf
 file_size: 156776
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-472-public-economics-ii-spring-2004/6abd5f690a002eeeb10e8be4fd7e144d_socsecvarlifeexp.pdf
+file: /ol-ocw-studio-app/courses/14-472-public-economics-ii-spring-2004/6abd5f690a002eeeb10e8be4fd7e144d_socsecvarlifeexp.pdf
 file_size: 174146
 file_type: application/pdf
 learning_resource_types:
