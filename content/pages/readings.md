@@ -18,17 +18,17 @@ Auerbach, A., and M. Feldstein. _Handbook of Public Economics._ Vols. 1, 2 and 3
 
 Atkinson, A., and J. Stiglitz. _Lectures on Public Economics._ New York, NY: McGraw Hill, 1980. ISBN: 0070841055.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/fundamentals-public-economics) Laffont, J. [_Fundamentals of Public Economics_](https://mitpress.mit.edu/books/fundamentals-public-economics). Cambridge, MA: MIT Press, 1988. ISBN: 0262121271.
+{{% resource_link "fdd64beb-d829-4d53-b139-dbe0690b7141" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Laffont, J. {{% resource_link "fdd64beb-d829-4d53-b139-dbe0690b7141" "_Fundamentals of Public Economics_" %}}. Cambridge, MA: MIT Press, 1988. ISBN: 0262121271.
 
 Moffit, R. A., ed. _Means-Tested Transfer Programs in the United States_. National Bureau of Economic Research Conference Report. Chicago, IL; London, UK: University of Chicago Press, 2003. ISBN: 0226533565.
 
 Myles, G. _Public Economics._ New York, NY: Cambridge University Press, 1995. ISBN: 0521497698.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/economics-taxation) Salanie, B. [_The Economics of Taxation_](https://mitpress.mit.edu/books/economics-taxation). Cambridge, MA: MIT Press, 2003. ISBN: 0262194864.
+{{% resource_link "d2825453-0df5-499b-9ba6-39ae2925d796" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Salanie, B. {{% resource_link "d2825453-0df5-499b-9ba6-39ae2925d796" "_The Economics of Taxation_" %}}. Cambridge, MA: MIT Press, 2003. ISBN: 0262194864.
 
 Tresch, R. _Public Finance._ Revised ed. New York, NY: McGraw-Hill, 2002. ISBN: 0126990514.
 
-[Committee on Ways and Means U.S. House of Representatives](https://waysandmeans.house.gov). The 2000 Green Book: Background Material and Data on Programs within the Jurisdicition of the Committee on Ways and Means. 17th ed. October 6, 2000.
+{{% resource_link "0a7de6dd-1915-428b-8f2c-5f3c6539bf28" "Committee on Ways and Means U.S. House of Representatives" %}}. The 2000 Green Book: Background Material and Data on Programs within the Jurisdicition of the Committee on Ways and Means. 17th ed. October 6, 2000.
 
 {{< anchor "readings" >}}{{< /anchor >}}Readings by Session
 -----------------------------------------------------------
@@ -151,7 +151,7 @@ Atkinson, A. B. "The Income Tax Treatment of Charitable Contributions, in Public
 
 Clotfelter, C. _Federal Tax Policy and Charitable Giving_. Chicago, IL: University of Chicago Press, 1985. ISBN: 0226110486.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/do-taxes-matter) ———. "The Impact of Tax Reform on Charitable Giving: A 1989 Perspective." In [_Do Taxes Matter?_](https://mitpress.mit.edu/books/do-taxes-matter) Edited by J. Slemrod. Cambridge, MA: MIT Press, 1990, pp. 203-235. ISBN: 0262193027.
+{{% resource_link "35fc37f1-ec76-4e6f-89fb-dbfaa3ce48b6" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. "The Impact of Tax Reform on Charitable Giving: A 1989 Perspective." In {{% resource_link "35fc37f1-ec76-4e6f-89fb-dbfaa3ce48b6" "_Do Taxes Matter?_" %}} Edited by J. Slemrod. Cambridge, MA: MIT Press, 1990, pp. 203-235. ISBN: 0262193027.
 
 Diamond, P. "Optimal Tax Treatment of Private Contributions for Public Goods with and without Warm Glow Preferences." MIT WP.
 
@@ -215,7 +215,7 @@ _Annuities_
 
 Brown, J. "How Should We Insure Longevity Risk in Pensions and Social Security?" Center for Retirement Research Issue in Brief, August 2000.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/role-annuity-markets-financing-retirement) Brown, J., et. al. [_The Role of Annuity Markets in Financing Retirement_](https://mitpress.mit.edu/books/role-annuity-markets-financing-retirement). Cambridge, MA: MIT Press, 2001. ISBN: 0262025094.
+{{% resource_link "0267c256-9efe-49ce-9c5e-cc6b50de03db" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Brown, J., et. al. {{% resource_link "0267c256-9efe-49ce-9c5e-cc6b50de03db" "_The Role of Annuity Markets in Financing Retirement_" %}}. Cambridge, MA: MIT Press, 2001. ISBN: 0262025094.
 
 Brown, J. "Private Pensions, Mortality Risk, and the Decision to Annuitize." _Journal of Public Economics_ 82, no. 1 (October 2001).
 
@@ -303,7 +303,7 @@ Bernheim, B., R. Lemke, and J. Scholz. "Do Estate and Gift Taxes Affect the Timi
 
 Cremer, H., and P. Pestieau. "Non-linear Taxation of Bequests, Equal Sharing Rules, and the Trade-off Between Intra and Inter-Family Inequalities." _Journal of Public Economics_ 79, no. 1 (January 2001): 35-53.
 
-Gale, William G., James R. Hines, Jr., and [Joel Slemrod.](https://mitpress.mit.edu/contributors/joel-slemrod) _Rethinking Estate and Gift Taxation._ Washington, DC: Brookings Institution Press. ISBN: 0815700695.
+Gale, William G., James R. Hines, Jr., and {{% resource_link "c36b83d8-3b68-4544-9a70-b1c5c85b5a13" "Joel Slemrod." %}} _Rethinking Estate and Gift Taxation._ Washington, DC: Brookings Institution Press. ISBN: 0815700695.
 
 Gale, W. G., and J. B. Slemrod. "Overview." In Gale, Hines and Slemrod.
 
@@ -403,7 +403,7 @@ Within Cohort Theoretical Models
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/taxation-incomplete-markets-and-social-security) Diamond, P. [_Taxation, Incomplete Markets, and Social Security_](https://mitpress.mit.edu/books/taxation-incomplete-markets-and-social-security)_._ The 2000 Munich Lectures. Cambridge, MA: MIT Press, 2002, chapter 3, pp. 17-32, chapter 4, pp. 33-46, chapter 6, pp. 63-85, chapter 7, pp. 87-114. Notes by Peter Diamond. ISBN: 0262541823.
+{{% resource_link "1d709ccb-3070-4070-ad3f-1a1298baa7b6" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Diamond, P. {{% resource_link "1d709ccb-3070-4070-ad3f-1a1298baa7b6" "_Taxation, Incomplete Markets, and Social Security_" %}}_._ The 2000 Munich Lectures. Cambridge, MA: MIT Press, 2002, chapter 3, pp. 17-32, chapter 4, pp. 33-46, chapter 6, pp. 63-85, chapter 7, pp. 87-114. Notes by Peter Diamond. ISBN: 0262541823.
 
 Diamond, P., and J. Mirrlees. "A Model of Social Insurance with Variable Retirement." _Journal of Public Economics_ 10 (1978): 295-336.
 
@@ -701,7 +701,7 @@ Acemoglu, D., and R. Shimer. "_Efficient Unemployment Insurance_." Mimeo, MIT (O
 
 Atkeson, A., and R. Lucas. "Efficiency and Equality in a Simple Model of Efficient Unemployment Insurance." _Journal of Economic Theory_ 66 (1995): 64-68.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/economic-consequences-rolling-back-welfare-state) Atkinson, A. B. [_The Economic Consequences of Rolling Back the Welfare State_](https://mitpress.mit.edu/books/economic-consequences-rolling-back-welfare-state). Cambridge, MA: MIT Press, 1999. ISBN: 0262011719.
+{{% resource_link "714119be-27bb-40ea-b998-81ef35a88085" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Atkinson, A. B. {{% resource_link "714119be-27bb-40ea-b998-81ef35a88085" "_The Economic Consequences of Rolling Back the Welfare State_" %}}. Cambridge, MA: MIT Press, 1999. ISBN: 0262011719.
 
 Baily, M. "Some Aspects of Optimal Unemployment Insurance." _Journal of Public Economics_ 10 (1978): 379-402.
 
@@ -833,7 +833,7 @@ Workers' Compensation Issues
 
 Fishback, P., and S. Kantor. "Did Workers Pay for the Passage of Workers' Compensation Laws?" _Quarterly Journal of Economics_ 110, no. 3 (August 1995): 713-742.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/tax-policy-and-economy-volume-5) Gruber, J., and A. Krueger. "The Incidence of Mandated Employer-Provided Insurance: Lessons from the Workers' Compensation Insurance." In [_Tax Policy and the Economy_](https://mitpress.mit.edu/books/tax-policy-and-economy-volume-5). Vol. 5. Edited by D. Bradford. Cambridge, MA: MIT Press, 1991, pp. 111-144. ISBN: 026252158X.
+{{% resource_link "c6dcf6f2-0ec4-46aa-ad30-395a5fb12b0f" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Gruber, J., and A. Krueger. "The Incidence of Mandated Employer-Provided Insurance: Lessons from the Workers' Compensation Insurance." In {{% resource_link "c6dcf6f2-0ec4-46aa-ad30-395a5fb12b0f" "_Tax Policy and the Economy_" %}}. Vol. 5. Edited by D. Bradford. Cambridge, MA: MIT Press, 1991, pp. 111-144. ISBN: 026252158X.
 
 Krueger, A. "Incentive Effects of Workers Compensation Insurance." _Journal of Public Economics_ 41 (February 1990): 73-100.
 
@@ -1019,7 +1019,7 @@ Cutler, D., and S. Reber. "Paying for Health Insurance: The Trade-off Between Co
 
 Eichner, M. "Incentives, Price Expectations, and Medical Expenditures." Chapter 1, Ph.D. Thesis, MIT (1997).
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/tax-policy-and-economy-volume-9) Feldstein, M., and J. Gruber. "A Major Risk Approach to Health Insurance Reform." In [_Tax Policy and the Economy_](https://mitpress.mit.edu/books/tax-policy-and-economy-volume-9). Edited by J. Poterba. Vol. 9. Cambridge, MA: MIT Press, 1995, pp. 103-130. ISBN: 0262660954.
+{{% resource_link "9c041ef5-3a51-447f-ae37-f778f4d06afa" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Feldstein, M., and J. Gruber. "A Major Risk Approach to Health Insurance Reform." In {{% resource_link "9c041ef5-3a51-447f-ae37-f778f4d06afa" "_Tax Policy and the Economy_" %}}. Edited by J. Poterba. Vol. 9. Cambridge, MA: MIT Press, 1995, pp. 103-130. ISBN: 0262660954.
 
 Gruber, J. "Taxes and Health Insurance." _NBER_ Working Paper 8657.
 
@@ -1129,7 +1129,7 @@ Gruber, J., D. Mayzlin, and J. Kim. "Physician Fees and Procedure Intensity: The
 
 Newhouse, J. "Reimbursing Health Plans and Health Providers: Selection versus Efficiency in Production." _Journal of Economic Literature_ 34, no. 3 (September 1996): 1236-1263.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/american-economic-policy-1990s) ———. "Medicare Policy in the 1990s." In [_American Economic Policy During the 1990s_](https://mitpress.mit.edu/books/american-economic-policy-1990s). Edited by J. Frankel and P. Orszag. Cambridge, MA: MIT Press. ISBN: 0262561514.
+{{% resource_link "9ccd98c9-2886-4cf9-9389-1b89959b2515" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. "Medicare Policy in the 1990s." In {{% resource_link "9ccd98c9-2886-4cf9-9389-1b89959b2515" "_American Economic Policy During the 1990s_" %}}. Edited by J. Frankel and P. Orszag. Cambridge, MA: MIT Press. ISBN: 0262561514.
 
 Newhouse, J., and D. Byrne. "Did Medicare's Prospective Payment System Cause Length of Stay to Fall?" _Journal of Health Economics_ 7, no. 4 (December 1988): 413-416.
 
@@ -1199,7 +1199,7 @@ Bulow, Jeremy, and Peter Klemperer. "The Tobacco Deal." _Brookings Papers on Eco
 
 Chaloupka, Frank J., and Kenneth Warner. "The Economics of Smoking." In _The Handbook of Health Economics._ Edited by Anthony Culyer and J. Newhouse. New York, NY: North-Holland, in press, 2000. ISBN: 0444822909.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/tax-policy-and-economy-volume-13) Evans, William, Jeanne Ringel, and Diana Stech "Tobacco Taxes and Public Policy to Discourage Smoking." In [_Tax Policy and the Economy_](https://mitpress.mit.edu/books/tax-policy-and-economy-volume-13)_._ Vol. 13. Edited by James Poterba. Cambridge, MA: MIT Press, 1999, pp. 1-56. ISBN: 0262661500.
+{{% resource_link "9a333463-5e85-44c0-928e-ec5999643492" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Evans, William, Jeanne Ringel, and Diana Stech "Tobacco Taxes and Public Policy to Discourage Smoking." In {{% resource_link "9a333463-5e85-44c0-928e-ec5999643492" "_Tax Policy and the Economy_" %}}_._ Vol. 13. Edited by James Poterba. Cambridge, MA: MIT Press, 1999, pp. 1-56. ISBN: 0262661500.
 
 Gruber, J. "Tobacco at the Crossroads: The Past and Future of Smoking Regulation in the United States." _Journal of Economic Perspectives_ 15, no. 2 (Spring 2001): 193-212.
 
